@@ -13,23 +13,37 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+locale                   : "en"
+title                    : "Gaussian Corpus"
+title_separator          : "-"
+url						 : "https://nlinc1905.github.io"  #Base URL
+repository               : "nlinc1905/nlinc1905.github.io"  #GitHub repo for the site
+teaser                   : ""  #Path of teaser image, e.g. "/assets/images/500x300.png"
+description              : > # > means ignore newlines until next key
+  A collection of data science, machine learning, statistics, 
+  and business intelligence articles, tutorials and experiments.
 
-#Build settings
+#Site Author
+author:
+  name             : "Nicholas Lincoln"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Data Scientist"
+  location         : "Tampa, FL"
+  uri			   : "https://nlinc1905.github.io"
+  github           : "nlinc1905"
+  linkedin		   : "nicholas-lincoln-b6903949"
+
+
+# Build settings
 markdown: kramdown
 theme: minima
-highlighter: Pygments
+highlighter: rouge
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+  - .gitignore
+  - .sass-cache
+  - README.md
+  - LICENSE.txt

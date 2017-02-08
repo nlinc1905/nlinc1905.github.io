@@ -1,0 +1,45 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+		<div class="footer-col footer-col-1">
+			<p>{{ site.description | escape }}</p>
+		 </div>
+		 
+		<div class="footer-col footer-col-2"></div>
+		
+		<div class="footer-col footer-col-3">
+			<ul class="contact-list">
+				<b><li>
+				{% if site.author.name %}
+					{{ site.author.name | escape }}
+				{% else %}
+					{{ site.title | escape }}
+				{% endif %}
+				</li></b>
+				{% if site.author.bio %}
+				<li>
+					{{ site.author.bio | escape }}
+				</li>
+				{% endif %}
+				{% if site.author.github %}
+				<li>
+					{% include icon-github.html username=site.author.github %}
+				</li>
+				{% endif %}
+				{% if site.author.linkedin %}
+				<li>
+					{% include icon-linkedin.html username=site.author.linkedin %}
+				</li>
+				{% endif %}
+			</ul>
+		</div> 
+      
+    </div>
+
+  </div>
+
+</footer>
