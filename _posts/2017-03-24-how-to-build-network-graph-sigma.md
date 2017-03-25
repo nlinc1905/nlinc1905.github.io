@@ -6,7 +6,7 @@ categories: JavaScript, HTML, D3, Sigma, Data Visualization, Network Science
 ---
 [This link](https://github.com/nlinc1905/JavaScript-Network-Graphs) leads to an example of a network link chart built with [sigma.js](http://sigmajs.org/).  Sigma is a great JavaScript library for building custom link charts and it has a lot of functionality.  In fact, [Linkurious](http://linkurio.us/) is a company that builds web based link charts that use Sigma as the backbone.  Linkurious has a lot of custom built features that expand upon Sigma that can only be accessed by purchasing the product, but for the common developer, knowledge of Sigma is all that is needed to build link charts with a wide range of functionality.  In this article, I will explain some of the features of my example Sigma network graph, piece by piece.  The image below is the finished product.
 
-![Sigma Network Graph]({{ site.url }}/assets/images/Sigma Network Graph Example.jpg)
+![Sigma Network Graph]({{ site.url }}/assets/images/Sigma Network Graph Example.JPG)
 
 Referring to this file: <https://github.com/nlinc1905/JavaScript-Network-Graphs/blob/master/sigma_network_example.html>, the code for the network begins at the `<script>` tag, although the dependency libraries are imported first:  
 
