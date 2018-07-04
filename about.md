@@ -20,6 +20,6 @@ artificial intelligence consulting startup.
 
 **Contact Options**
 
-[LinkedIn](https://www.linkedin.com/in/nicholas-lincoln-b6903949/)\
-[Cumulus Labs LLC](http://www.cumuluslabs.net/)\
+[LinkedIn](https://www.linkedin.com/in/nicholas-lincoln-b6903949/)<br/>
+[Cumulus Labs LLC](http://www.cumuluslabs.net/)<br/>
 [Data science books I have written](https://dsilt-stats.weebly.com/)
