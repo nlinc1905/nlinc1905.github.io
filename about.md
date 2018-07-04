@@ -4,19 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This website hosts a collection of data science, machine learning, statistics, and business intelligence articles, tutorials and experiments.
-
-My reasons for creating this website are to simplify topics in data science so that anyone can understand them, and to have a place where I can dump
-my own research.  I hope that others who share a fondness of learning and data science will find this website useful. 
+This website hosts a collection of data science, machine learning, AI, statistics, and business intelligence articles, tutorials and experiments.
 
 ## About Me
 
 ![Profile Photo]({{ site.url }}/assets/images/profile_photo_medium.jpg)
 
-My name is Nicholas Lincoln.  I am a Data Scientist in Tampa, FL.  I began my career in business intelligence but transitioned to machine learning 
-and predictive analysis.  I am a self-taught programmer, and I believe that a degree is no longer necessary to be successful in data science, 
-as long as one has the desire to learn and the motivation to continuously improve.  There are thousands of tutorials and free courses out there 
-for anyone with an internet connection to take advantage of.  That is one of the reasons I created this website; to serve as another resource 
-for people interested in the field, regardless of their background.  
+Nicholas Lincoln is an interdisciplinary scientist and artificial intelligence researcher.  He has patents pending in network science and 
+artificial intelligence technologies, and has developed data science applications in multiple functional areas for fortune 500 companies. 
+Nicholas has a B.S. in Economics and a B.A. in International Studies, both from from The Ohio State University, and he is currently a M.S. 
+student at Southern New Hampshire University in the field of Data Analytics.  He is a computer scientist at the U.S. Army Research Laboratory, 
+concentrating on high performance computing and scalable data science.  He is also a co-founder of Cumulus Labs LLC, a data science and 
+artificial intelligence consulting startup. 
 
-**Please use the links in the footer below to contact me.**
+**Contact Options**
+
+[LinkedIn](https://www.linkedin.com/in/nicholas-lincoln-b6903949/)
+[Cumulus Labs LLC](http://www.cumuluslabs.net/)
+[Data science books I have written](https://dsilt-stats.weebly.com/)

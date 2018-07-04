@@ -14,21 +14,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale                   : "en"
-title                    : "Gaussian Corpus"
+title                    : "Nick Lincoln's Blog"
 title_separator          : "-"
 url						 : "https://nlinc1905.github.io"  #Base URL
 repository               : "nlinc1905/nlinc1905.github.io"  #GitHub repo for the site
 teaser                   : ""  #Path of teaser image, e.g. "/assets/images/500x300.png"
 description              : > # > means ignore newlines until next key
-  A collection of data science, machine learning, statistics, 
+  A collection of data science, machine learning, AI, statistics, 
   and business intelligence articles, tutorials and experiments.
 
 #Site Author
 author:
   name             : "Nicholas Lincoln"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist"
-  location         : "Tampa, FL"
+  bio              : "Data Scientist and AI Researcher"
+  location         : "Aberdeen, MD"
   uri			   : "https://nlinc1905.github.io"
   github           : "nlinc1905"
   linkedin		   : "nicholas-lincoln-b6903949"
